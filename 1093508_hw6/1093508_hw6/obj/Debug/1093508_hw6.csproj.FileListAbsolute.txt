@@ -1,0 +1,10 @@
+C:\Users\user\Documents\GitHub\1101\windows\1093508_hw6\1093508_hw6\bin\Debug\1093508_hw6.exe.config
+C:\Users\user\Documents\GitHub\1101\windows\1093508_hw6\1093508_hw6\bin\Debug\1093508_hw6.exe
+C:\Users\user\Documents\GitHub\1101\windows\1093508_hw6\1093508_hw6\bin\Debug\1093508_hw6.pdb
+C:\Users\user\Documents\GitHub\1101\windows\1093508_hw6\1093508_hw6\obj\Debug\1093508_hw6.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\1101\windows\1093508_hw6\1093508_hw6\obj\Debug\_1093508_hw6.Form1.resources
+C:\Users\user\Documents\GitHub\1101\windows\1093508_hw6\1093508_hw6\obj\Debug\_1093508_hw6.Properties.Resources.resources
+C:\Users\user\Documents\GitHub\1101\windows\1093508_hw6\1093508_hw6\obj\Debug\1093508_hw6.csproj.GenerateResource.cache
+C:\Users\user\Documents\GitHub\1101\windows\1093508_hw6\1093508_hw6\obj\Debug\1093508_hw6.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\1101\windows\1093508_hw6\1093508_hw6\obj\Debug\1093508_hw6.exe
+C:\Users\user\Documents\GitHub\1101\windows\1093508_hw6\1093508_hw6\obj\Debug\1093508_hw6.pdb

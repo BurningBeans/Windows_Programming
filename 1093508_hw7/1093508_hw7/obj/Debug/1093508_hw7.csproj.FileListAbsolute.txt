@@ -1,0 +1,13 @@
+C:\Users\user\Documents\GitHub\1101\windows\1093508_hw7\1093508_hw7\bin\Debug\1093508_12-1.exe.config
+C:\Users\user\Documents\GitHub\1101\windows\1093508_hw7\1093508_hw7\bin\Debug\1093508_12-1.exe
+C:\Users\user\Documents\GitHub\1101\windows\1093508_hw7\1093508_hw7\bin\Debug\1093508_12-1.pdb
+C:\Users\user\Documents\GitHub\1101\windows\1093508_hw7\1093508_hw7\obj\Debug\_1093508_hw7.Form1.resources
+C:\Users\user\Documents\GitHub\1101\windows\1093508_hw7\1093508_hw7\obj\Debug\_1093508_hw7.Form2.resources
+C:\Users\user\Documents\GitHub\1101\windows\1093508_hw7\1093508_hw7\obj\Debug\_1093508_hw7.Form3.resources
+C:\Users\user\Documents\GitHub\1101\windows\1093508_hw7\1093508_hw7\obj\Debug\_1093508_hw7.Properties.Resources.resources
+C:\Users\user\Documents\GitHub\1101\windows\1093508_hw7\1093508_hw7\obj\Debug\1093508_hw7.csproj.GenerateResource.cache
+C:\Users\user\Documents\GitHub\1101\windows\1093508_hw7\1093508_hw7\obj\Debug\1093508_hw7.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\1101\windows\1093508_hw7\1093508_hw7\obj\Debug\1093508_12-1.exe
+C:\Users\user\Documents\GitHub\1101\windows\1093508_hw7\1093508_hw7\obj\Debug\1093508_12-1.pdb
+C:\Users\user\Documents\GitHub\1101\windows\1093508_hw7\1093508_hw7\obj\Debug\1093508_hw7.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\1101\windows\1093508_hw7\1093508_hw7\obj\Debug\1093508_hw7.csproj.SuggestedBindingRedirects.cache
